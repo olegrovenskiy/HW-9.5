@@ -3,7 +3,7 @@ pipeline {
      label 'docker'
            }
     stages {
-        stage("Git checkout"){
+        stage("Run molecule"){
             steps {
               git branch: 'Branch-9.5', url: 'https://github.com/olegrovenskiy/HW-9.5.git'
               echo 'Hello'

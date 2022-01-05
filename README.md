@@ -171,17 +171,17 @@ https://c2n.me/4ewFtG4
 
 	https://github.com/olegrovenskiy/HW-9.5
 	
-	vagrant@vagrant:~/kibana-role$ ls -l
-	total 32
-	drwxrwxr-x 2 vagrant vagrant 4096 Jan  5 13:28 delete
-	drwxrwxr-x 3 vagrant vagrant 4096 Jan  5 13:28 inventory
-	-rw-rw-r-- 1 vagrant vagrant  433 Jan  5 16:00 Jenkinsfile
-	-rw-rw-r-- 1 vagrant vagrant    8 Jan  5 13:28 README.md
-	drwxrwxr-x 4 vagrant vagrant 4096 Jan  5 13:28 roles
-	-rw-rw-r-- 1 vagrant vagrant 2956 Jan  5 13:28 site.old_8.3
-	-rw-rw-r-- 1 vagrant vagrant 2956 Jan  5 13:28 site.yml
-	drwxrwxr-x 2 vagrant vagrant 4096 Jan  5 13:28 templates
-	vagrant@vagrant:~/kibana-role$
+		vagrant@vagrant:~/kibana-role$ ls -l
+		total 32
+		drwxrwxr-x 2 vagrant vagrant 4096 Jan  5 13:28 delete
+		drwxrwxr-x 3 vagrant vagrant 4096 Jan  5 13:28 inventory
+		-rw-rw-r-- 1 vagrant vagrant  433 Jan  5 16:00 Jenkinsfile
+		-rw-rw-r-- 1 vagrant vagrant    8 Jan  5 13:28 README.md
+		drwxrwxr-x 4 vagrant vagrant 4096 Jan  5 13:28 roles
+		-rw-rw-r-- 1 vagrant vagrant 2956 Jan  5 13:28 site.old_8.3
+		-rw-rw-r-- 1 vagrant vagrant 2956 Jan  5 13:28 site.yml
+		drwxrwxr-x 2 vagrant vagrant 4096 Jan  5 13:28 templates
+		vagrant@vagrant:~/kibana-role$
 
 ### 4. Создать Multibranch Pipeline на запуск Jenkinsfile из репозитория.
 
